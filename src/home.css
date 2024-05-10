@@ -1,0 +1,8 @@
+.home-js-div {
+    margin-top: 1rem; /* Adjust the margin-top value as needed */
+    background-color: var(--navbar-color); /* Replace "--nav-color" with the actual variable name */
+    padding: 1.5rem 3rem; /* Adjust the padding value as needed */
+    text-align: center;
+    font-size: 1.2rem; /* Adjust the font-size value as needed */
+    color: white;
+}
